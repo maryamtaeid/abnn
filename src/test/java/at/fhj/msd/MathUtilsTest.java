@@ -13,6 +13,7 @@ public class MathUtilsTest {
     @DisplayName ("test if the number is not even")
     void isNotEventest(){
         assertFalse(MathUtils.isEven(11));
+        print(hi);
     }
 
 }
